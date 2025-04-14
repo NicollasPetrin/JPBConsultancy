@@ -27,5 +27,29 @@ alert ("Cadastro realizado com sucesso");
 alert ("A seguir, veja os detalhes no console !");
 console.log ("nome do vinho : " + vinho);
 console.log ("tipo do vinho : " + tipo);
-console.log ("ano do vinho : " + ano);
-console.log ("estoque do vinho : " + estoque);
+
+
+if(estoque < 5){
+    console.log ("estoque do vinho : " + estoque + "     ESTOQUE BAIXO");
+    if(ano >= 2020 ){
+        console.log("ano do vinho : " + ano + "      Vinho Jovem");
+    }
+    if(ano >= 2015 && ano <= 2019){
+        console.log("ano do vinho : " + ano + "     Vinho Amadurecido");
+    }
+    if(ano < 2015){
+        console.log("ano do vinho : " + ano + "     Vinho Antigo");
+    }
+    
+}else {
+    console.log ("estoque do vinho : " + estoque);
+    if(ano >= 2020 ){
+        console.log("ano do vinho : " + ano + "      Vinho Jovem");
+    }
+    if(ano >= 2015 && ano <= 2019){
+        console.log("ano do vinho : " + ano + "     Vinho Amadurecido");
+    }
+    if(ano < 2015){
+        console.log("ano do vinho : " + ano + "     Vinho Antigo");
+    }
+}
