@@ -1,7 +1,7 @@
 JPB Consultancy
 
-Integrantes: Marco Antonio Junqueira de Albuquerque,
-             Gabriel Borghi de Faria,
+Integrantes: Marco Antonio Junqueira de Albuquerque
+             Gabriel Borghi de Faria
              Nicollas Petrin de Carvalho
 
 Descriçao do Projeto: Um site desenvolvido com um sistema de cadastro e uma organizaçao pro gerenciamento de estoque para o dono da vinicula

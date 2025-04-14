@@ -6,8 +6,8 @@ body {
 }
 
 .header {
-  background-color: #5b0e2d;
-  color: white;
+  background-color: white;
+  color: #5b0e2d;
   padding: 20px 40px;
   display: flex;
   justify-content: space-between;
@@ -15,16 +15,16 @@ body {
 }
 
 nav a {
-  color: white;
+  color: #5b0e2d;
   margin-left: 20px;
   text-decoration: none;
   font-weight: bold;
 }
 
 .apresentacao {
-  background: url(/src/assets/imgs/background.jpeg) no-repeat center;
+  background: url(/src/assets/imgs/background2.jpg) no-repeat center;
   background-size: cover;
-  color: white;
+  color: #c7a66d;
   padding: 100px 40px;
 }
 
@@ -58,7 +58,7 @@ nav a {
 }
 
 .card {
-  background-color: white;
+  background-color: #c7a66d;
   padding: 20px;
   text-align: center;
   flex: 1 1 200px;

@@ -53,6 +53,6 @@ function cadastrarVinho() {
         if(ano < 2015){
             console.log("ano do vinho : " + ano + "     Vinho Antigo");
         }
+    console.log ("--------------------------------------------------------")
     }
-    console.log("--------------------------------------------------------")
 }
