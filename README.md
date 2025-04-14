@@ -7,7 +7,7 @@ Integrantes: Marco Antonio Junqueira de Albuquerque,
 Descriçao do Projeto: Um site desenvolvido com um sistema de cadastro e uma organizaçao pro gerenciamento de estoque para o dono da vinicula
 
 Link GitHub: [https://github.com/NicollasPetrin/VinhariaAgnelo]
-Link GitHub pages: [https://nicollaspetrin.github.io/VinhariaAgnelo/]  (ass: as imagens não estão sendo carregadas ao abrir o github pages. Mas quando abre o site no localhost as imagens são carregadas normalmente)
+Link GitHub pages: [https://nicollaspetrin.github.io/VinhariaAgnelo/]
 
 Imagem Inicial do Site:  ----------------------------------------
                          ----------------------------------------
