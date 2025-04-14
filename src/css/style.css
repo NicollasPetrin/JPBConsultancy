@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    font-family: 'Georgia', serif;
+    background-color: #f4ede4;
+    color: #333;
+}
+
+#cabecalho {
+    background-image: url(/src/assets/imgs/background.png);
+    width: 1000px;
+    height: 500px;
+    color: white;
+}
+
+.estoque {
+    background-color: #C7A66D;
+    
+}
