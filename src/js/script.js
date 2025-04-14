@@ -21,10 +21,10 @@ function cadastrarVinho() {
             var vinho = parseInt(prompt("Digite a quantidade de garrafas de vinho: "));
         }
 
-        
+
     // mostrar que o cadastro esta realizado e cadastro no console
 
-    alert ("Cadastro realizado com sucesso");
+    alert(`Vinho cadastrado!!! \n \n \n Nome do vinho: ${vinho} \n Tipo do vinho: ${tipo} \n Estoque disponivel: ${estoque} \n Ano de fabricação: ${ano} `);
     alert ("A seguir, veja os detalhes no console !");
     console.log ("nome do vinho : " + vinho);
     console.log ("tipo do vinho : " + tipo);
@@ -56,8 +56,6 @@ function cadastrarVinho() {
             console.log("ano do vinho : " + ano + "     Vinho Antigo");
         }
     }
+
     console.log("--------------------------------------------------------")
-
-    alert(`Vinho cadastrado!!! \n \n \n Nome do vinho: ${vinho} \n Tipo do vinho: ${tipo} \n Estoque disponivel: ${estoque} \n Ano de fabricação: ${ano} `)
-
 }
