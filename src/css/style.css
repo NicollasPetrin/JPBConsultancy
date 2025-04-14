@@ -6,8 +6,8 @@ body {
 }
 
 .header {
-  background-color: white;
-  color: #5b0e2d;
+  background-color: #5b0e2d;
+  color: white;
   padding: 20px 40px;
   display: flex;
   justify-content: space-between;
@@ -15,7 +15,7 @@ body {
 }
 
 nav a {
-  color: #5b0e2d;
+  color: white;
   margin-left: 20px;
   text-decoration: none;
   font-weight: bold;
@@ -24,7 +24,7 @@ nav a {
 .apresentacao {
   background: url(/src/assets/imgs/background2.jpg) no-repeat center;
   background-size: cover;
-  color: #c7a66d;
+  color: white;
   padding: 100px 40px;
 }
 
@@ -58,7 +58,7 @@ nav a {
 }
 
 .card {
-  background-color: #c7a66d;
+  background-color: white;
   padding: 20px;
   text-align: center;
   flex: 1 1 200px;
