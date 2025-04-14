@@ -1,77 +1,77 @@
 body {
-    margin: 0;
-    font-family: 'Georgia', serif;
-    background-color: #f4ede4;
-    color: #333;
-  }
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background-color: #f4ede4;
+  color: #333;
+}
 
-  .header {
-    background-color: #5b0e2d;
-    color: white;
-    padding: 20px 40px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
+.header {
+  background-color: #5b0e2d;
+  color: white;
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
-  nav a {
-    color: white;
-    margin-left: 20px;
-    text-decoration: none;
-    font-weight: bold;
-  }
+nav a {
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
 
-  .apresentacao {
-    background: url(/src/assets/imgs/background.png) no-repeat center;
-    background-size: cover;
-    color: white;
-    padding: 100px 40px;
-  }
+.apresentacao {
+  background: url(/src/assets/imgs/background.png) no-repeat center;
+  background-size: cover;
+  color: white;
+  padding: 100px 40px;
+}
 
-  .apresentacao h1 {
-    font-size: 48px;
-    max-width: 500px;
-  }
+.apresentacao h1 {
+  font-size: 48px;
+  max-width: 500px;
+}
 
-  .apresentacao p {
-    font-size: 18px;
-    margin-bottom: 20px;
-  }
+.apresentacao p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
 
-  .btn {
-    background-color: #c7a66d;
-    border: none;
-    padding: 10px 20px;
-    color: #333;
-    font-weight: bold;
-    cursor: pointer;
-  }
+.btn {
+  background-color: #c7a66d;
+  border: none;
+  padding: 10px 20px;
+  color: #333;
+  font-weight: bold;
+  cursor: pointer;
+}
 
-  .section {
-    padding: 60px 40px;
-  }
+.section {
+  padding: 60px 40px;
+}
 
-  .cards {
-    display: flex;
-    gap: 20px;
-    flex-wrap: wrap;
-  }
+.cards {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
 
-  .card {
-    background-color: white;
-    padding: 20px;
-    text-align: center;
-    flex: 1 1 200px;
-    border-radius: 8px;
-  }
+.card {
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  flex: 1 1 200px;
+  border-radius: 8px;
+}
 
-  .card img {
-    max-height: 150px;
-  }
+.card img {
+  max-height: 150px;
+}
 
-  footer {
-    background-color: #5b0e2d;
-    color: white;
-    padding: 40px;
-    text-align: center;
-  }
+footer {
+  background-color: #5b0e2d;
+  color: white;
+  padding: 40px;
+  text-align: center;
+}

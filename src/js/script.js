@@ -41,8 +41,7 @@ function cadastrarVinho() {
         if(ano < 2015){
             console.log("ano do vinho : " + ano + "     Vinho Antigo");
         }
-        
-    }else {
+    } else {
         console.log ("estoque do vinho : " + estoque);
         if(ano >= 2020 ){
             console.log("ano do vinho : " + ano + "      Vinho Jovem");
