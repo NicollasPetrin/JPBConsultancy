@@ -1,4 +1,4 @@
-JPB Consultancy
+JPB Consultancy - Vinharia Agnello
 
 Integrantes: Marco Antonio Junqueira de Albuquerque,
              Gabriel Borghi de Faria,
