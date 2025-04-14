@@ -57,4 +57,7 @@ function cadastrarVinho() {
         }
     }
     console.log("--------------------------------------------------------")
+
+    alert(`Vinho cadastrado!!! \n \n \n Nome do vinho: ${vinho} \n Tipo do vinho: ${tipo} \n Estoque disponivel: ${estoque} \n Ano de fabricação: ${ano} `)
+
 }
