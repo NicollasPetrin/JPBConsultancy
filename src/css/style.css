@@ -21,8 +21,13 @@ nav a {
   font-weight: bold;
 }
 
+.cart {
+  height: 20px;
+  color: white;
+}
+
 .apresentacao {
-  background: url(/src/assets/imgs/background2.jpg) no-repeat center;
+  background: url(/src/assets/imgs/background2.jpeg) no-repeat center;
   background-size: cover;
   color: white;
   padding: 100px 40px;
